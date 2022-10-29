@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186573784713",
+    "project_id": "shindecrud-8fc44",
+    "storage_bucket": "shindecrud-8fc44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186573784713:android:94dd73e4bb3b5495916858",
+        "android_client_info": {
+          "package_name": "com.example.shishirsearchwithcrudimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186573784713-6h1diq3f3mvqbkfams1afbf3ffp7g5p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbqCxUNyIpt3pPvWo-dONBSrnsq6mx030"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186573784713-6h1diq3f3mvqbkfams1afbf3ffp7g5p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
